@@ -32,3 +32,18 @@ More than half the exam (47%) sits in Domains 1 and 3 — agentic architecture a
 
 <img width="1400" height="1162" alt="image" src="https://github.com/user-attachments/assets/eb7cb26d-e9a8-4726-a20a-f506c6a8a02e" />
 
+
+
+How to Prepare: The Full Study Path
+Anthropic Academy launched on March 2, 2026 — ten days before the exam — with 13 free self-paced courses hosted on Skilljar. No subscription, no paywall. These are the official preparation materials and they’re genuinely comprehensive.
+
+<img width="1400" height="1102" alt="image" src="https://github.com/user-attachments/assets/c6bdd506-edbb-4eea-8718-d673746d6c2c" />
+
+Recommended study sequence
+
+Week 1–2: Claude 101 + AI Fluency (baseline knowledge)
+Week 3–5: Building with the Claude API in full (8.1 hours — the core material)
+Week 6–7: Intro to MCP + MCP Advanced (Domain 2)
+Week 8–9: Claude Code in Action + Coursera module (Domain 3)
+Week 10–11: Practice questions + scenario walkthroughs on all 6 exam scenarios
+Week 12: Anti-patterns review — study the common traps, not more new material
